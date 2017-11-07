@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: e1b2d96ce54d5ee40a5bc97bfa762a72
+  - enabled: 1
+    path: Assets/Scenes/Main_MavicPro.unity
+    guid: 430f534c314a37a4cbe0777da2b59e19
+  - enabled: 1
+    path: Assets/Scenes/Main_Opening4K.unity
+    guid: 60073bee130b10b4b8c6f93e4eb96f47
+  - enabled: 0
+    path: Assets/Scenes/Main_Opening8K.unity
+    guid: 4e979635e97b66c4fa5d547a3b2c56cb
